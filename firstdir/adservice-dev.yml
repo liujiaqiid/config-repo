@@ -1,2 +1,3 @@
 server:
   name: "first service dev"
+thekey: thedevvalue
