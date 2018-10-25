@@ -1,2 +1,3 @@
 service:
   name: "first service"
+thekey: thevalue
